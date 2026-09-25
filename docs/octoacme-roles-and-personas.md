@@ -78,4 +78,6 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+- These roles also map directly to OctoAcme project execution: the Product Manager defines the outcome, the Project Manager coordinates delivery, and the Developer, QA, and stakeholder groups contribute to execution, quality, and readiness.
+- This shared role model is referenced by the project management overview, planning, execution, and communication guidance so the team has a consistent operating model across the lifecycle.
 
